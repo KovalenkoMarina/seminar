@@ -1,4 +1,7 @@
-﻿Console.Clear();
+﻿//Выяснить являются ли три числа сторонами треугольника
+
+
+Console.Clear();
 Console.WriteLine("Выяснить являются ли три числа сторонами треугольника");
 Console.Write("Введите первую сторону треугольника: ");
 int firstSide =  int.Parse(Console.ReadLine() ?? "0");
